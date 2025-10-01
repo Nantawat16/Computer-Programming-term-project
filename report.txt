@@ -1,0 +1,44 @@
+Library Borrow System - Summary Report
+Generated At : 2025-10-01 10:18 (+0700) 
+App Version : 2.0
+Encoding : UTF-8 (fixed-length)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+BookID | Title                                         | Author                         | Year | Copies | Borrowed By         | Status
+--------------------------------------------------------------------------------------------------------------------------------------------
+1001   | COMPUTER NETWORKS AND INTERNETS               | DOUGLAS E. COMER               | 2015 | 10     | 1.Lucas             | Active
+       |                                               |                                |      |        | 2.Matthew           | 
+1002   | IOS PROGRAMMING                               | CHRISTIAN KEUR                 | 2016 | 10     | 0                   | Active
+1003   | AI-ASSISTED PROGRAMMING                       | TOM TAULLI                     | 2024 | 12     | 1.Steven            | Active
+1004   | INTRODUCTION TO PROGRAMMING WITH JAVA         | JOHN DEAN                      | 2013 | 20     | 0                   | Active
+1005   | MUST KNOW HIGH SCHOOL COMPUTER PROGRAMMING    | JULIE SWAY                     | 2020 | 15     | 1.Daniel            | Active
+1006   | DIGITAL MAVERICKS                             | DEBBIE SOON                    | 2025 | 10     | 1.Sofia             | Active
+1007   | CONCEPTS OF PROGRAMMING LANGUAGES             | SEBESTA                        | 2015 | 12     | 1.Sofia             | Active
+1008   | BAYESIAN METHODS FOR HACKERS                  | CAMERON DAVIDSON-PILON         | 2015 | 20     | 0                   | Active
+1009   | C PROGRAMMING ABSOLUTE BEGINNER'S GUIDE       | PERRY                          | 2013 | 10     | 1.Thomas            | Active
+1010   | R PROGRAMMING FOR MASS SPECTROMETRY           | RANDALL K. JULIAN              | 2025 | 18     | 0                   | Active
+1011   | DATABASE SYSTEMS                              | THOMAS CONNOLLY                | 2015 | 25     | 1.Lucas             | Active
+       |                                               |                                |      |        | 2.Olivia            | 
+       |                                               |                                |      |        | 3.Michael           | 
+1012   | MODERN DATABASE MANAGEMENT                    | HOFFER                         | 2016 | 15     | 0                   | Active
+1013   | PATRIOT                                       | ALEXEI NAVALNY                 | 2025 | 20     | 1.Matthew           | Active
+1014   | PLUCKED                                       | MARYN MCKENNA                  | 2019 | 10     | 1.Henry             | Active
+       |                                               |                                |      |        | 2.Olivia            | 
+1015   | COMPUTER SYSTEMS                              | RANDAL E. BRYANT               | 2016 | 15     | 0                   | Active
+1016   | ENGLISH LANGUAGE SYSTEMS                      | NARUTHAI                       | 2025 | 20     | 1.Daniel            | Active
+1017   | DIGITAL SAT STUDY GUIDE                       | BRIAN W. STEWART               | 2025 | 16     | 0                   | Active
+1018   | BUSINESS PARTNER A1                           | MARGARET O'KEEFFE              | 2021 | 20     | 1.Daniel            | Active
+1019   | COMPUTER APPLICATION                          | JONATHAN CHAN                  | 2015 | 15     | 0                   | Active
+1020   | SWIFT FOR PROGRAMMERS                         | PAUL DEITEL                    | 2015 | 20     | 1.Michael           | Active
+
+Summary (Active Books Only)
+- Total Books   : 20
+- Active Books  : 20
+- Deleted Books : 0
+- Borrowed Now  : 16
+- Available Now : 297
+
+Borrow Statistics (Active only)
+- Most Borrowed Book : DATABASE SYSTEMS (3 times)
+- Currently Borrowed : 16
+- Active Members     : 10
